@@ -7,7 +7,7 @@
 ## Running the project
 
 ```
-git clone git@github.com:GetStream/slack-clone-expo.git
+git clone git@github.com:alejandrocam19/slack-clone-expo.git
 cd slack-clone-expo
 yarn; yarn start
 ```
